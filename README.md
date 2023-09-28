@@ -17,4 +17,6 @@ Dejaremos un tiempo al principio de clase para que todo el mundo pueda resolver 
 1. Que parte ha sido más complicada
 2. ¿Has aprendido algo nuevo?
 
-<video width="90%" height="90%" controls autoplay><source src="https://oscarm.tinytake.com/df/151f18d/thumbnail?type=attachments&version_no=0&file_version_no=0&thumbnail_size=preview" type="video/mp4">Your browser does not support the video tag.</video><br /><a href="https://www.tinytake.com" title="Powered by TinyTake Screen Capture"></a>
+## Diseño esperado
+
+[Video](https://oscarm.tinytake.com/msc/ODc0MjgwN18yMjE0NzQ2OQ)
