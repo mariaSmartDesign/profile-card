@@ -9,7 +9,6 @@
 
 1. Como estilizar el botón al pasar el ratón por encima - [pseudoselector hover](https://www.w3schools.com/cssref/sel_hover.php)
 
-
 ## Motivación
 
 Completa el CSS para conseguir el resultado esperado.
