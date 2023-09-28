@@ -10,25 +10,55 @@
             margin: auto;
             text-align: center;
             font-family: arial;
+            padding: 8px 0px 0px 0px;
         }
-    </style>
+
+
+        .nom{
+            font-size: 24pt;
+            font-weight: bold;
+        }
+
+        .carrec{
+            font-size: 14pt;
+            color: grey;
+        }
+
+        .fa{
+            color: black;
+        } 
+
+        .boto{
+            background-color: black;
+            color: white;
+            padding: 10px 0px;
+            margin-top: 15px;
+        }
+
+        .boto:hover{
+            background-color: rgb(69, 163, 69);
+        }
+
+</style>
 </head>
 
+
 <body>
-
-    User Profile Card
-
-    <img src="https://www.w3schools.com/w3images/team2.jpg" alt="John" style="width:100%">
-    John Doe
-    CEO & Founder, Example
-    Harvard University
+    <section class="card">
+    <h1>User Profile Card</h1>
+    
+    
+        <img src="https://www.w3schools.com/w3images/team2.jpg" alt="John" style="width:100%">
+        <p class="nom">John Doe</p>
+        <p class="carrec">CEO & Founder, Example</p>
+        <p class="universitat">Harvard University</p>
 
     <a href="#"><i class="fa fa-dribbble"></i></a>
     <a href="#"><i class="fa fa-twitter"></i></a>
     <a href="#"><i class="fa fa-linkedin"></i></a>
     <a href="#"><i class="fa fa-facebook"></i></a>
-    Contact
-
+    <div class="boto">Contact</div>
+</section>
 </body>
 
 </html>
